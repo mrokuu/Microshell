@@ -3,11 +3,11 @@ microshell is a very simple Linux shell written in C language. It's a project re
 
 ```
 Supported commands: 
->CD
->Exit
->Help
->cp
->mv
->run
->Colors handling
+CD
+Exit
+Help
+cp
+mv
+run
+Colors handling
 ```
